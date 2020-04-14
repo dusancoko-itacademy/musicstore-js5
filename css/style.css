@@ -1,0 +1,33 @@
+body {
+    background-image: url('../images/music_tile.png');
+}
+
+.browse-container {
+    padding: 1rem;
+    min-height: 12rem;
+}
+
+.wrapper {
+    background-color: white;
+    min-height: 100vh;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+#kontakt-mapa {
+    width: 100%;
+    height: 17.5rem;
+}
+
+#music-store-logo {
+    height: 8rem;
+}
+
+#browse-by-genre .active {
+    background-color: #007bff;
+    border-radius: 0.3125rem;
+}
+
+#browse-by-genre .active a {
+    color: white;
+}
