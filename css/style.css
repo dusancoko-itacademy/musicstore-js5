@@ -7,6 +7,14 @@ body {
     min-height: 12rem;
 }
 
+.cover {
+    width: 5rem;
+}
+
+.editors-pick th, .editors-pick td {
+    vertical-align: middle;
+}
+
 .wrapper {
     background-color: white;
     min-height: 100vh;
