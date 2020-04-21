@@ -2,6 +2,16 @@ body {
     background-image: url('../images/music_tile.png');
 }
 
+.artist {
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.artist h4 {
+    text-align: center;
+}
+
 .browse-container {
     padding: 1rem;
     min-height: 12rem;
